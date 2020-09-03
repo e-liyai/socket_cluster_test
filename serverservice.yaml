@@ -1,0 +1,4 @@
+runtime: nodejs10
+service: serverservice
+network:
+  session_affinity: true
